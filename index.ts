@@ -4,7 +4,7 @@ export interface User{
     occupation: string;
 }
 
-export const users: unknown[] = [
+export const users: User[] = [
     {
         name: 'Max Mustermann',
         age: 25,
