@@ -1,1 +1,1 @@
-# TSexercise
+This is a list of typescript excercise that I completed.
